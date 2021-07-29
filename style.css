@@ -1,0 +1,41 @@
+.custom-header-bg{
+    background-color: #264653;
+}
+.text-white{
+    color: white;
+}
+.text-yellow{
+    color: #E76F51;;
+}
+.custom-btn{
+    background-color: #E76F51;
+    padding: 10px 30px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.gogole-fonts{
+    font-family: 'Poppins', sans-serif;
+}
+.text-gray{
+    color: #E0E0E0;
+}
+.text-black{
+    color: black;
+}
+.text-dark-gray{
+    color: #6C6C6C;
+}
+.text-green{
+    color: #23A6F0;
+}
+.text-navy{
+    color: #252B42;
+}
+.text-accroding{
+    color: 
+    #7E848C;
+}
+.footer-bg{
+    background-color: #0B0D17;
+}
+  
